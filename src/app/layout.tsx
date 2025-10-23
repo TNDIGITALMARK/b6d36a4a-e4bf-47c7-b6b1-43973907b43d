@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Echo Music - Where Sound Meets Soul",
+  description: "Experience the best contemporary music. Discover artists, stream tracks, and connect with the Echo Music family.",
 };
 
 export default function RootLayout({
